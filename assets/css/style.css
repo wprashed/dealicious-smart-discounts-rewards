@@ -1,0 +1,23 @@
+#spin-wrapper {
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    width: 300px;
+    background: #fffbe7;
+}
+#spinBtn {
+    background: #e91e63;
+    color: #fff;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#spin-result {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333;
+}
